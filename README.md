@@ -1,5 +1,6 @@
 # Git 101 Attendance
 
+Kevin Tao
 Genesis Kaleikau
 Arnau Vila Manes
 Tawny Andrews
