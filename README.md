@@ -1,3 +1,6 @@
 # Git 101 Attendance
 
-Micahel Miranda
+Michael Miranda
+Kristin Indick
+Gerardo Aldana
+Levin Weinstein
