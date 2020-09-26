@@ -1,5 +1,6 @@
 # Git 101 Attendance
 
+Cameron Deputy
 Kevin Tao
 Genesis Kaleikau
 Arnau Vila Manes
